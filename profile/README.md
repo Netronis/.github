@@ -1,10 +1,10 @@
 <h2 align="center">🗂️ Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Ashreach/ThLun">
+  <a href="https://github.com/Ashreach/ThLun" target="_blank">
     <img src="https://img.shields.io/badge/ThLun%20(Python%20library)-1E1E1E?style=for-the-badge&logo=minecraft&logoColor=white"/>
   </a>
-  <a href="https://mc.yunexal.com/">
+  <a href="https://mc.yunexal.com/" target="_blank">
     <img src="https://img.shields.io/badge/YMC%20(Minecraft%20Server)-004880?style=for-the-badge&logo=minecraft&logoColor=white"/>
   </a>
   <ahref>
