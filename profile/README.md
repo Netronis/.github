@@ -1,10 +1,18 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&duration=2800&pause=1500&color=70A4FC&center=true&repeat=true&width=600&height=75&lines=Hey%2C+I'm+Netrois+%F0%9F%91%8B" alt="Typing SVG" />
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1500&color=FFFFFF&center=false&repeat=false&width=450&height=65&lines=Hey%2C+I'm+Netrois+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
+<img src="https://cdn.dribbble.com/userupload/20440063/file/original-f73b3606cf45fb3b422805b88b96b58a.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+<p>
+  <em>
+  I’m an IT specialist focused on full-stack, backend, and system-level development. I enjoy tackling complex problems, experimenting with new technologies, and building practical solutions. <br>
+  Currently, I’m working on several hands-on projects where I design backend logic, work with databases, and develop system-oriented components using languages such as Rust and Python.
+  </em>
+</p>
+<br/>
+<br/>
 
-<br>
-
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bash,linux,arch,cloudflare,redis,spring,dart,flutter,py,docker,c,fastapi,git,rust,bots" height="60" />
@@ -12,7 +20,7 @@
 
 <br/>
 
-<h2 align="center">🗂️ Projects</h2>
+<!-- <h2 align="center"><em>Projects</em></h2>
 
 <p align="center">
   <a href="https://github.com/Ashreach/ThLun">
@@ -26,7 +34,7 @@
   <a>
     <img src="https://img.shields.io/badge/NuggetHost%20(Gaming%20Hosting)-E6B422?style=for-the-badge&logo=linux&logoColor=black"/>
   </a>
-</p>
+</p> -->
 
 <h2 align="center">Activity</h2>
 <div align="center">
