@@ -27,7 +27,3 @@
     <img src="https://img.shields.io/badge/NuggetHost%20(Gaming%20Hosting)-E6B422?style=for-the-badge&logo=linux&logoColor=black"/>
   </a>
 </p>
-
-<h2 align="center">Activity</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Netrois&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
